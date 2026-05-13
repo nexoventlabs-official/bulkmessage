@@ -1,0 +1,1640 @@
+[
+  {
+    "ac_no": 1,
+    "constituency": "Gummidipoondi",
+    "district": "THIRUVALLUR",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_1"
+  },
+  {
+    "ac_no": 2,
+    "constituency": "Ponneri",
+    "district": "THIRUVALLUR",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_2"
+  },
+  {
+    "ac_no": 3,
+    "constituency": "Tiruttani",
+    "district": "THIRUVALLUR",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_3"
+  },
+  {
+    "ac_no": 4,
+    "constituency": "Thiruvallur",
+    "district": "THIRUVALLUR",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_4"
+  },
+  {
+    "ac_no": 5,
+    "constituency": "Poonamallee",
+    "district": "THIRUVALLUR",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_5"
+  },
+  {
+    "ac_no": 6,
+    "constituency": "Avadi",
+    "district": "THIRUVALLUR",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_6"
+  },
+  {
+    "ac_no": 7,
+    "constituency": "Maduravoyal",
+    "district": "THIRUVALLUR",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_7"
+  },
+  {
+    "ac_no": 8,
+    "constituency": "Ambattur",
+    "district": "THIRUVALLUR",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_8"
+  },
+  {
+    "ac_no": 9,
+    "constituency": "Madavaram",
+    "district": "THIRUVALLUR",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_9"
+  },
+  {
+    "ac_no": 10,
+    "constituency": "Thiruvottiyur",
+    "district": "THIRUVALLUR",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_10"
+  },
+  {
+    "ac_no": 28,
+    "constituency": "Alandur",
+    "district": "KANCHEEPURAM",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_28"
+  },
+  {
+    "ac_no": 29,
+    "constituency": "Sriperumbudur",
+    "district": "KANCHEEPURAM",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_29"
+  },
+  {
+    "ac_no": 36,
+    "constituency": "Uthiramerur",
+    "district": "KANCHEEPURAM",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_36"
+  },
+  {
+    "ac_no": 37,
+    "constituency": "Kancheepuram",
+    "district": "KANCHEEPURAM",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_37"
+  },
+  {
+    "ac_no": 27,
+    "constituency": "Shozhinganallur",
+    "district": "CHENGALPATTU",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_27"
+  },
+  {
+    "ac_no": 30,
+    "constituency": "Pallavaram",
+    "district": "CHENGALPATTU",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_30"
+  },
+  {
+    "ac_no": 31,
+    "constituency": "Tambaram",
+    "district": "CHENGALPATTU",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_31"
+  },
+  {
+    "ac_no": 32,
+    "constituency": "Chengalpattu",
+    "district": "CHENGALPATTU",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_32"
+  },
+  {
+    "ac_no": 33,
+    "constituency": "Thiruporur",
+    "district": "CHENGALPATTU",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_33"
+  },
+  {
+    "ac_no": 34,
+    "constituency": "Cheyyur",
+    "district": "CHENGALPATTU",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_34"
+  },
+  {
+    "ac_no": 35,
+    "constituency": "Madurantakam",
+    "district": "CHENGALPATTU",
+    "zone": "KANCHI ZONE",
+    "table_name": "ass_35"
+  },
+  {
+    "ac_no": 11,
+    "constituency": "Dr.Radhakrishnan Nagar",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_11"
+  },
+  {
+    "ac_no": 12,
+    "constituency": "Perambur",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_12"
+  },
+  {
+    "ac_no": 13,
+    "constituency": "Kolathur",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_13"
+  },
+  {
+    "ac_no": 14,
+    "constituency": "Villivakkam",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_14"
+  },
+  {
+    "ac_no": 15,
+    "constituency": "Thiru-Vi-Ka-Nagar",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_15"
+  },
+  {
+    "ac_no": 16,
+    "constituency": "Egmore",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_16"
+  },
+  {
+    "ac_no": 17,
+    "constituency": "Royapuram",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_17"
+  },
+  {
+    "ac_no": 18,
+    "constituency": "Harbour",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_18"
+  },
+  {
+    "ac_no": 19,
+    "constituency": "Chepauk-Thiruvallikeni",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_19"
+  },
+  {
+    "ac_no": 20,
+    "constituency": "Thousand Lights",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_20"
+  },
+  {
+    "ac_no": 21,
+    "constituency": "Anna Nagar",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_21"
+  },
+  {
+    "ac_no": 22,
+    "constituency": "Virugampakkam",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_22"
+  },
+  {
+    "ac_no": 23,
+    "constituency": "Saidapet",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_23"
+  },
+  {
+    "ac_no": 24,
+    "constituency": "Thiyagarayanagar",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_24"
+  },
+  {
+    "ac_no": 25,
+    "constituency": "Mylapore",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_25"
+  },
+  {
+    "ac_no": 26,
+    "constituency": "Velachery",
+    "district": "CHENNAI",
+    "zone": "CHENNAI ZONE",
+    "table_name": "ass_26"
+  },
+  {
+    "ac_no": 40,
+    "constituency": "Katpadi",
+    "district": "VELLORE",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_40"
+  },
+  {
+    "ac_no": 43,
+    "constituency": "Vellore",
+    "district": "VELLORE",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_43"
+  },
+  {
+    "ac_no": 44,
+    "constituency": "Anaikattu",
+    "district": "VELLORE",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_44"
+  },
+  {
+    "ac_no": 45,
+    "constituency": "Kilvaithinankuppam",
+    "district": "VELLORE",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_45"
+  },
+  {
+    "ac_no": 46,
+    "constituency": "Gudiyattam",
+    "district": "VELLORE",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_46"
+  },
+  {
+    "ac_no": 51,
+    "constituency": "Uthangarai",
+    "district": "KRISHNAGIRI",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_51"
+  },
+  {
+    "ac_no": 52,
+    "constituency": "Bargur",
+    "district": "KRISHNAGIRI",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_52"
+  },
+  {
+    "ac_no": 53,
+    "constituency": "Krishnagiri",
+    "district": "KRISHNAGIRI",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_53"
+  },
+  {
+    "ac_no": 54,
+    "constituency": "Veppanahalli",
+    "district": "KRISHNAGIRI",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_54"
+  },
+  {
+    "ac_no": 55,
+    "constituency": "Hosur",
+    "district": "KRISHNAGIRI",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_55"
+  },
+  {
+    "ac_no": 56,
+    "constituency": "Thalli",
+    "district": "KRISHNAGIRI",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_56"
+  },
+  {
+    "ac_no": 47,
+    "constituency": "Vaniyambadi",
+    "district": "TIRUPATHUR",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_47"
+  },
+  {
+    "ac_no": 48,
+    "constituency": "Ambur",
+    "district": "TIRUPATHUR",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_48"
+  },
+  {
+    "ac_no": 49,
+    "constituency": "Jolarpet",
+    "district": "TIRUPATHUR",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_49"
+  },
+  {
+    "ac_no": 50,
+    "constituency": "Tirupattur",
+    "district": "TIRUPATHUR",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_50"
+  },
+  {
+    "ac_no": 38,
+    "constituency": "Arakkonam",
+    "district": "RANIPET",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_38"
+  },
+  {
+    "ac_no": 39,
+    "constituency": "Sholinghur",
+    "district": "RANIPET",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_39"
+  },
+  {
+    "ac_no": 41,
+    "constituency": "Ranipet",
+    "district": "RANIPET",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_41"
+  },
+  {
+    "ac_no": 42,
+    "constituency": "Arcot",
+    "district": "RANIPET",
+    "zone": "VELLORE ZONE",
+    "table_name": "ass_42"
+  },
+  {
+    "ac_no": 57,
+    "constituency": "Palacodu",
+    "district": "DHARMAPURI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_57"
+  },
+  {
+    "ac_no": 58,
+    "constituency": "Pennagaram",
+    "district": "DHARMAPURI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_58"
+  },
+  {
+    "ac_no": 59,
+    "constituency": "Dharmapuri",
+    "district": "DHARMAPURI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_59"
+  },
+  {
+    "ac_no": 60,
+    "constituency": "Pappireddipatti",
+    "district": "DHARMAPURI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_60"
+  },
+  {
+    "ac_no": 61,
+    "constituency": "Harur",
+    "district": "DHARMAPURI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_61"
+  },
+  {
+    "ac_no": 62,
+    "constituency": "Chengam",
+    "district": "TIRUVANNAMALAI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_62"
+  },
+  {
+    "ac_no": 63,
+    "constituency": "Tiruvannamalai",
+    "district": "TIRUVANNAMALAI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_63"
+  },
+  {
+    "ac_no": 64,
+    "constituency": "Kilpennathur",
+    "district": "TIRUVANNAMALAI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_64"
+  },
+  {
+    "ac_no": 65,
+    "constituency": "Kalasapakkam",
+    "district": "TIRUVANNAMALAI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_65"
+  },
+  {
+    "ac_no": 66,
+    "constituency": "Polur",
+    "district": "TIRUVANNAMALAI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_66"
+  },
+  {
+    "ac_no": 67,
+    "constituency": "Arani",
+    "district": "TIRUVANNAMALAI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_67"
+  },
+  {
+    "ac_no": 68,
+    "constituency": "Cheyyar",
+    "district": "TIRUVANNAMALAI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_68"
+  },
+  {
+    "ac_no": 69,
+    "constituency": "Vandavasi",
+    "district": "TIRUVANNAMALAI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_69"
+  },
+  {
+    "ac_no": 77,
+    "constituency": "Ulundurpettai",
+    "district": "KALLAKURUCHI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_77"
+  },
+  {
+    "ac_no": 78,
+    "constituency": "Rishivandiyam",
+    "district": "KALLAKURUCHI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_78"
+  },
+  {
+    "ac_no": 79,
+    "constituency": "Sankarapuram",
+    "district": "KALLAKURUCHI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_79"
+  },
+  {
+    "ac_no": 80,
+    "constituency": "Kallakurichi",
+    "district": "KALLAKURUCHI",
+    "zone": "TIRUVANNAMALAI ZONE",
+    "table_name": "ass_80"
+  },
+  {
+    "ac_no": 70,
+    "constituency": "Gingee",
+    "district": "VILUPURAM",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_70"
+  },
+  {
+    "ac_no": 71,
+    "constituency": "Mailam",
+    "district": "VILUPURAM",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_71"
+  },
+  {
+    "ac_no": 72,
+    "constituency": "Tindivanam",
+    "district": "VILUPURAM",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_72"
+  },
+  {
+    "ac_no": 73,
+    "constituency": "Vanur",
+    "district": "VILUPURAM",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_73"
+  },
+  {
+    "ac_no": 74,
+    "constituency": "Viluppuram",
+    "district": "VILUPURAM",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_74"
+  },
+  {
+    "ac_no": 75,
+    "constituency": "Vikravandi",
+    "district": "VILUPURAM",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_75"
+  },
+  {
+    "ac_no": 76,
+    "constituency": "Tirukkoyilur",
+    "district": "VILUPURAM",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_76"
+  },
+  {
+    "ac_no": 151,
+    "constituency": "Tittakudi",
+    "district": "CUDDALORE",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_151"
+  },
+  {
+    "ac_no": 152,
+    "constituency": "Vriddhachalam",
+    "district": "CUDDALORE",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_152"
+  },
+  {
+    "ac_no": 153,
+    "constituency": "Neyveli",
+    "district": "CUDDALORE",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_153"
+  },
+  {
+    "ac_no": 154,
+    "constituency": "Panruti",
+    "district": "CUDDALORE",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_154"
+  },
+  {
+    "ac_no": 155,
+    "constituency": "Cuddalore",
+    "district": "CUDDALORE",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_155"
+  },
+  {
+    "ac_no": 156,
+    "constituency": "Kurinjipadi",
+    "district": "CUDDALORE",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_156"
+  },
+  {
+    "ac_no": 157,
+    "constituency": "Bhuvanagiri",
+    "district": "CUDDALORE",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_157"
+  },
+  {
+    "ac_no": 158,
+    "constituency": "Chidambaram",
+    "district": "CUDDALORE",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_158"
+  },
+  {
+    "ac_no": 159,
+    "constituency": "Kattumannarkoil",
+    "district": "CUDDALORE",
+    "zone": "VILLUPURAM ZONE",
+    "table_name": "ass_159"
+  },
+  {
+    "ac_no": 81,
+    "constituency": "Gangavalli",
+    "district": "SALEM",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_81"
+  },
+  {
+    "ac_no": 82,
+    "constituency": "Attur",
+    "district": "SALEM",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_82"
+  },
+  {
+    "ac_no": 83,
+    "constituency": "Yercaud",
+    "district": "SALEM",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_83"
+  },
+  {
+    "ac_no": 84,
+    "constituency": "Omalur",
+    "district": "SALEM",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_84"
+  },
+  {
+    "ac_no": 85,
+    "constituency": "Mettur",
+    "district": "SALEM",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_85"
+  },
+  {
+    "ac_no": 86,
+    "constituency": "Edappadi",
+    "district": "SALEM",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_86"
+  },
+  {
+    "ac_no": 87,
+    "constituency": "Sankari",
+    "district": "SALEM",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_87"
+  },
+  {
+    "ac_no": 88,
+    "constituency": "Salem (West)",
+    "district": "SALEM",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_88"
+  },
+  {
+    "ac_no": 89,
+    "constituency": "Salem (North)",
+    "district": "SALEM",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_89"
+  },
+  {
+    "ac_no": 90,
+    "constituency": "Salem (South)",
+    "district": "SALEM",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_90"
+  },
+  {
+    "ac_no": 91,
+    "constituency": "Veerapandi",
+    "district": "SALEM",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_91"
+  },
+  {
+    "ac_no": 92,
+    "constituency": "Rasipuram",
+    "district": "NAMAKKAL",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_92"
+  },
+  {
+    "ac_no": 93,
+    "constituency": "Senthamangalam",
+    "district": "NAMAKKAL",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_93"
+  },
+  {
+    "ac_no": 94,
+    "constituency": "Namakkal",
+    "district": "NAMAKKAL",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_94"
+  },
+  {
+    "ac_no": 95,
+    "constituency": "Paramathi-Velur",
+    "district": "NAMAKKAL",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_95"
+  },
+  {
+    "ac_no": 96,
+    "constituency": "Tiruchengodu",
+    "district": "NAMAKKAL",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_96"
+  },
+  {
+    "ac_no": 97,
+    "constituency": "Kumarapalayam",
+    "district": "NAMAKKAL",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_97"
+  },
+  {
+    "ac_no": 98,
+    "constituency": "Erode (East)",
+    "district": "ERODE",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_98"
+  },
+  {
+    "ac_no": 99,
+    "constituency": "Erode (West)",
+    "district": "ERODE",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_99"
+  },
+  {
+    "ac_no": 100,
+    "constituency": "Modakkurichi",
+    "district": "ERODE",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_100"
+  },
+  {
+    "ac_no": 103,
+    "constituency": "Perundurai",
+    "district": "ERODE",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_103"
+  },
+  {
+    "ac_no": 104,
+    "constituency": "Bhavani",
+    "district": "ERODE",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_104"
+  },
+  {
+    "ac_no": 105,
+    "constituency": "Anthiyur",
+    "district": "ERODE",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_105"
+  },
+  {
+    "ac_no": 106,
+    "constituency": "Gobichettipalayam",
+    "district": "ERODE",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_106"
+  },
+  {
+    "ac_no": 107,
+    "constituency": "Bhavanisagar",
+    "district": "ERODE",
+    "zone": "SALEM ZONE",
+    "table_name": "ass_107"
+  },
+  {
+    "ac_no": 108,
+    "constituency": "Udhagamandalam",
+    "district": "NILGIRIS",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_108"
+  },
+  {
+    "ac_no": 109,
+    "constituency": "Gudalur",
+    "district": "NILGIRIS",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_109"
+  },
+  {
+    "ac_no": 110,
+    "constituency": "Coonoor",
+    "district": "NILGIRIS",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_110"
+  },
+  {
+    "ac_no": 111,
+    "constituency": "Mettuppalayam",
+    "district": "COIMBATORE",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_111"
+  },
+  {
+    "ac_no": 116,
+    "constituency": "Sulur",
+    "district": "COIMBATORE",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_116"
+  },
+  {
+    "ac_no": 117,
+    "constituency": "Kavundampalayam",
+    "district": "COIMBATORE",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_117"
+  },
+  {
+    "ac_no": 118,
+    "constituency": "Coimbatore (North)",
+    "district": "COIMBATORE",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_118"
+  },
+  {
+    "ac_no": 119,
+    "constituency": "Thondamuthur",
+    "district": "COIMBATORE",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_119"
+  },
+  {
+    "ac_no": 120,
+    "constituency": "Coimbatore (South)",
+    "district": "COIMBATORE",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_120"
+  },
+  {
+    "ac_no": 121,
+    "constituency": "Singanallur",
+    "district": "COIMBATORE",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_121"
+  },
+  {
+    "ac_no": 122,
+    "constituency": "Kinathukadavu",
+    "district": "COIMBATORE",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_122"
+  },
+  {
+    "ac_no": 123,
+    "constituency": "Pollachi",
+    "district": "COIMBATORE",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_123"
+  },
+  {
+    "ac_no": 124,
+    "constituency": "Valparai",
+    "district": "COIMBATORE",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_124"
+  },
+  {
+    "ac_no": 101,
+    "constituency": "Dharapuram",
+    "district": "TIRUPPUR",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_101"
+  },
+  {
+    "ac_no": 102,
+    "constituency": "Kangayam",
+    "district": "TIRUPPUR",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_102"
+  },
+  {
+    "ac_no": 112,
+    "constituency": "Avanashi",
+    "district": "TIRUPPUR",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_112"
+  },
+  {
+    "ac_no": 113,
+    "constituency": "Tiruppur (North)",
+    "district": "TIRUPPUR",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_113"
+  },
+  {
+    "ac_no": 114,
+    "constituency": "Tiruppur (South)",
+    "district": "TIRUPPUR",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_114"
+  },
+  {
+    "ac_no": 115,
+    "constituency": "Palladam",
+    "district": "TIRUPPUR",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_115"
+  },
+  {
+    "ac_no": 125,
+    "constituency": "Udumalaipettai",
+    "district": "TIRUPPUR",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_125"
+  },
+  {
+    "ac_no": 126,
+    "constituency": "Madathukulam",
+    "district": "TIRUPPUR",
+    "zone": "COVAI ZONE",
+    "table_name": "ass_126"
+  },
+  {
+    "ac_no": 134,
+    "constituency": "Aravakurichi",
+    "district": "KARUR",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_134"
+  },
+  {
+    "ac_no": 135,
+    "constituency": "Karur",
+    "district": "KARUR",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_135"
+  },
+  {
+    "ac_no": 136,
+    "constituency": "Krishnarayapuram",
+    "district": "KARUR",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_136"
+  },
+  {
+    "ac_no": 137,
+    "constituency": "Kulithalai",
+    "district": "KARUR",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_137"
+  },
+  {
+    "ac_no": 138,
+    "constituency": "Manapparai",
+    "district": "TIRUCHIRAPALLI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_138"
+  },
+  {
+    "ac_no": 139,
+    "constituency": "Srirangam",
+    "district": "TIRUCHIRAPALLI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_139"
+  },
+  {
+    "ac_no": 140,
+    "constituency": "Tiruchirappalli (West)",
+    "district": "TIRUCHIRAPALLI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_140"
+  },
+  {
+    "ac_no": 141,
+    "constituency": "Tiruchirappalli (East)",
+    "district": "TIRUCHIRAPALLI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_141"
+  },
+  {
+    "ac_no": 142,
+    "constituency": "Thiruverumbur",
+    "district": "TIRUCHIRAPALLI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_142"
+  },
+  {
+    "ac_no": 143,
+    "constituency": "Lalgudi",
+    "district": "TIRUCHIRAPALLI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_143"
+  },
+  {
+    "ac_no": 144,
+    "constituency": "Manachanallur",
+    "district": "TIRUCHIRAPALLI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_144"
+  },
+  {
+    "ac_no": 145,
+    "constituency": "Musiri",
+    "district": "TIRUCHIRAPALLI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_145"
+  },
+  {
+    "ac_no": 146,
+    "constituency": "Thuraiyur",
+    "district": "TIRUCHIRAPALLI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_146"
+  },
+  {
+    "ac_no": 147,
+    "constituency": "Perambalur",
+    "district": "PERAMBALUR",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_147"
+  },
+  {
+    "ac_no": 148,
+    "constituency": "Kunnam",
+    "district": "PERAMBALUR",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_148"
+  },
+  {
+    "ac_no": 178,
+    "constituency": "Gandarvakkottai",
+    "district": "PUDUKOTTAI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_178"
+  },
+  {
+    "ac_no": 179,
+    "constituency": "Viralimalai",
+    "district": "PUDUKOTTAI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_179"
+  },
+  {
+    "ac_no": 180,
+    "constituency": "Pudukkottai",
+    "district": "PUDUKOTTAI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_180"
+  },
+  {
+    "ac_no": 181,
+    "constituency": "Thirumayam",
+    "district": "PUDUKOTTAI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_181"
+  },
+  {
+    "ac_no": 182,
+    "constituency": "Alangudi",
+    "district": "PUDUKOTTAI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_182"
+  },
+  {
+    "ac_no": 183,
+    "constituency": "Aranthangi",
+    "district": "PUDUKOTTAI",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_183"
+  },
+  {
+    "ac_no": 149,
+    "constituency": "Ariyalur",
+    "district": "ARIYALUR",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_149"
+  },
+  {
+    "ac_no": 150,
+    "constituency": "Jayankondam",
+    "district": "ARIYALUR",
+    "zone": "TRICHY ZONE",
+    "table_name": "ass_150"
+  },
+  {
+    "ac_no": 127,
+    "constituency": "Palani",
+    "district": "DINDIGUL",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_127"
+  },
+  {
+    "ac_no": 128,
+    "constituency": "Oddanchatram",
+    "district": "DINDIGUL",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_128"
+  },
+  {
+    "ac_no": 129,
+    "constituency": "Athoor",
+    "district": "DINDIGUL",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_129"
+  },
+  {
+    "ac_no": 130,
+    "constituency": "Nilakkottai",
+    "district": "DINDIGUL",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_130"
+  },
+  {
+    "ac_no": 131,
+    "constituency": "Natham",
+    "district": "DINDIGUL",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_131"
+  },
+  {
+    "ac_no": 132,
+    "constituency": "Dindigul",
+    "district": "DINDIGUL",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_132"
+  },
+  {
+    "ac_no": 133,
+    "constituency": "Vedasandur",
+    "district": "DINDIGUL",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_133"
+  },
+  {
+    "ac_no": 198,
+    "constituency": "Andipatti",
+    "district": "THENI",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_198"
+  },
+  {
+    "ac_no": 199,
+    "constituency": "Periyakulam",
+    "district": "THENI",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_199"
+  },
+  {
+    "ac_no": 200,
+    "constituency": "Bodinayakanur",
+    "district": "THENI",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_200"
+  },
+  {
+    "ac_no": 201,
+    "constituency": "Cumbum",
+    "district": "THENI",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_201"
+  },
+  {
+    "ac_no": 202,
+    "constituency": "Rajapalayam",
+    "district": "VIRUDHUNAGAR",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_202"
+  },
+  {
+    "ac_no": 203,
+    "constituency": "Srivilliputhur",
+    "district": "VIRUDHUNAGAR",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_203"
+  },
+  {
+    "ac_no": 204,
+    "constituency": "Sattur",
+    "district": "VIRUDHUNAGAR",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_204"
+  },
+  {
+    "ac_no": 205,
+    "constituency": "Sivakasi",
+    "district": "VIRUDHUNAGAR",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_205"
+  },
+  {
+    "ac_no": 206,
+    "constituency": "Virudhunagar",
+    "district": "VIRUDHUNAGAR",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_206"
+  },
+  {
+    "ac_no": 207,
+    "constituency": "Aruppukkottai",
+    "district": "VIRUDHUNAGAR",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_207"
+  },
+  {
+    "ac_no": 208,
+    "constituency": "Tiruchuli",
+    "district": "VIRUDHUNAGAR",
+    "zone": "VIRUDHUNAGAR ZONE",
+    "table_name": "ass_208"
+  },
+  {
+    "ac_no": 163,
+    "constituency": "Nagapattinam",
+    "district": "NAGAPATTINAM",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_163"
+  },
+  {
+    "ac_no": 164,
+    "constituency": "Kilvelur",
+    "district": "NAGAPATTINAM",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_164"
+  },
+  {
+    "ac_no": 165,
+    "constituency": "Vedaranyam",
+    "district": "NAGAPATTINAM",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_165"
+  },
+  {
+    "ac_no": 166,
+    "constituency": "Thiruthuraipoondi",
+    "district": "THIRUVARUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_166"
+  },
+  {
+    "ac_no": 167,
+    "constituency": "Mannargudi",
+    "district": "THIRUVARUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_167"
+  },
+  {
+    "ac_no": 168,
+    "constituency": "Thiruvarur",
+    "district": "THIRUVARUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_168"
+  },
+  {
+    "ac_no": 169,
+    "constituency": "Nannilam",
+    "district": "THIRUVARUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_169"
+  },
+  {
+    "ac_no": 170,
+    "constituency": "Thiruvidaimarudur",
+    "district": "THANJAVUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_170"
+  },
+  {
+    "ac_no": 171,
+    "constituency": "Kumbakonam",
+    "district": "THANJAVUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_171"
+  },
+  {
+    "ac_no": 172,
+    "constituency": "Papanasam",
+    "district": "THANJAVUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_172"
+  },
+  {
+    "ac_no": 173,
+    "constituency": "Thiruvaiyaru",
+    "district": "THANJAVUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_173"
+  },
+  {
+    "ac_no": 174,
+    "constituency": "Thanjavur",
+    "district": "THANJAVUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_174"
+  },
+  {
+    "ac_no": 175,
+    "constituency": "Orathanadu",
+    "district": "THANJAVUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_175"
+  },
+  {
+    "ac_no": 176,
+    "constituency": "Pattukkottai",
+    "district": "THANJAVUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_176"
+  },
+  {
+    "ac_no": 177,
+    "constituency": "Peravurani",
+    "district": "THANJAVUR",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_177"
+  },
+  {
+    "ac_no": 160,
+    "constituency": "Sirkazhi",
+    "district": "MAYILADUTHURAI",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_160"
+  },
+  {
+    "ac_no": 161,
+    "constituency": "Mayiladuthurai",
+    "district": "MAYILADUTHURAI",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_161"
+  },
+  {
+    "ac_no": 162,
+    "constituency": "Poompuhar",
+    "district": "MAYILADUTHURAI",
+    "zone": "THANJAI ZONE",
+    "table_name": "ass_162"
+  },
+  {
+    "ac_no": 184,
+    "constituency": "Karaikudi",
+    "district": "SIVAGANGA",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_184"
+  },
+  {
+    "ac_no": 185,
+    "constituency": "Tiruppattur",
+    "district": "SIVAGANGA",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_185"
+  },
+  {
+    "ac_no": 186,
+    "constituency": "Sivaganga",
+    "district": "SIVAGANGA",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_186"
+  },
+  {
+    "ac_no": 187,
+    "constituency": "Manamadurai",
+    "district": "SIVAGANGA",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_187"
+  },
+  {
+    "ac_no": 188,
+    "constituency": "Melur",
+    "district": "MADURAI",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_188"
+  },
+  {
+    "ac_no": 189,
+    "constituency": "Madurai East",
+    "district": "MADURAI",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_189"
+  },
+  {
+    "ac_no": 190,
+    "constituency": "Sholavandan",
+    "district": "MADURAI",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_190"
+  },
+  {
+    "ac_no": 191,
+    "constituency": "Madurai North",
+    "district": "MADURAI",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_191"
+  },
+  {
+    "ac_no": 192,
+    "constituency": "Madurai South",
+    "district": "MADURAI",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_192"
+  },
+  {
+    "ac_no": 193,
+    "constituency": "Madurai Central",
+    "district": "MADURAI",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_193"
+  },
+  {
+    "ac_no": 194,
+    "constituency": "Madurai West",
+    "district": "MADURAI",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_194"
+  },
+  {
+    "ac_no": 195,
+    "constituency": "Thiruparankundram",
+    "district": "MADURAI",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_195"
+  },
+  {
+    "ac_no": 196,
+    "constituency": "Thirumangalam",
+    "district": "MADURAI",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_196"
+  },
+  {
+    "ac_no": 197,
+    "constituency": "Usilampatti",
+    "district": "MADURAI",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_197"
+  },
+  {
+    "ac_no": 209,
+    "constituency": "Paramakudi",
+    "district": "RAMANATHAPURAM",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_209"
+  },
+  {
+    "ac_no": 210,
+    "constituency": "Tiruvadanai",
+    "district": "RAMANATHAPURAM",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_210"
+  },
+  {
+    "ac_no": 211,
+    "constituency": "Ramanathapuram",
+    "district": "RAMANATHAPURAM",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_211"
+  },
+  {
+    "ac_no": 212,
+    "constituency": "Mudhukulathur",
+    "district": "RAMANATHAPURAM",
+    "zone": "MADURAI ZONE",
+    "table_name": "ass_212"
+  },
+  {
+    "ac_no": 213,
+    "constituency": "Vilathikulam",
+    "district": "THOOTHUKUDI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_213"
+  },
+  {
+    "ac_no": 214,
+    "constituency": "Thoothukkudi",
+    "district": "THOOTHUKUDI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_214"
+  },
+  {
+    "ac_no": 215,
+    "constituency": "Tiruchendur",
+    "district": "THOOTHUKUDI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_215"
+  },
+  {
+    "ac_no": 216,
+    "constituency": "Srivaikuntam",
+    "district": "THOOTHUKUDI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_216"
+  },
+  {
+    "ac_no": 217,
+    "constituency": "Ottapidaram",
+    "district": "THOOTHUKUDI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_217"
+  },
+  {
+    "ac_no": 218,
+    "constituency": "Kovilpatti",
+    "district": "THOOTHUKUDI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_218"
+  },
+  {
+    "ac_no": 224,
+    "constituency": "Tirunelveli",
+    "district": "TIRUNELVELI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_224"
+  },
+  {
+    "ac_no": 225,
+    "constituency": "Ambasamudram",
+    "district": "TIRUNELVELI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_225"
+  },
+  {
+    "ac_no": 226,
+    "constituency": "Palayamkottai",
+    "district": "TIRUNELVELI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_226"
+  },
+  {
+    "ac_no": 227,
+    "constituency": "Nanguneri",
+    "district": "TIRUNELVELI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_227"
+  },
+  {
+    "ac_no": 228,
+    "constituency": "Radhapuram",
+    "district": "TIRUNELVELI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_228"
+  },
+  {
+    "ac_no": 229,
+    "constituency": "Kanniyakumari",
+    "district": "KANNIYAKUMARI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_229"
+  },
+  {
+    "ac_no": 230,
+    "constituency": "Nagercoil",
+    "district": "KANNIYAKUMARI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_230"
+  },
+  {
+    "ac_no": 231,
+    "constituency": "Colachal",
+    "district": "KANNIYAKUMARI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_231"
+  },
+  {
+    "ac_no": 232,
+    "constituency": "Padmanabhapuram",
+    "district": "KANNIYAKUMARI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_232"
+  },
+  {
+    "ac_no": 233,
+    "constituency": "Vilavancode",
+    "district": "KANNIYAKUMARI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_233"
+  },
+  {
+    "ac_no": 234,
+    "constituency": "Killiyoor",
+    "district": "KANNIYAKUMARI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_234"
+  },
+  {
+    "ac_no": 219,
+    "constituency": "Sankarankovil",
+    "district": "TENKASI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_219"
+  },
+  {
+    "ac_no": 220,
+    "constituency": "Vasudevanallur",
+    "district": "TENKASI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_220"
+  },
+  {
+    "ac_no": 221,
+    "constituency": "Kadayanallur",
+    "district": "TENKASI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_221"
+  },
+  {
+    "ac_no": 222,
+    "constituency": "Tenkasi",
+    "district": "TENKASI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_222"
+  },
+  {
+    "ac_no": 223,
+    "constituency": "Alangulam",
+    "district": "TENKASI",
+    "zone": "TIRUNELVELI ZONE",
+    "table_name": "ass_223"
+  }
+]
