@@ -19,8 +19,10 @@ const uploadRoutes = require('./routes/upload');
 const app = express();
 const PORT = process.env.PORT || 5000;
 
+const allowedOrigins = (process.env.FRONTEND_URL || '*').split(',').map(s => s.trim());
+
 app.use(cors({
-  origin: process.env.FRONTEND_URL || '*',
+  origin: allowedOrigins.length === 1 ? allowedOrigins[0] : allowedOrigins,
   credentials: true,
 }));
 app.use(express.json({ limit: '10mb' }));
@@ -41,7 +43,7 @@ const server = http.createServer(app);
 
 // Socket.IO
 const io = new Server(server, {
-  cors: { origin: process.env.FRONTEND_URL || '*', methods: ['GET', 'POST'] },
+  cors: { origin: allowedOrigins.length === 1 ? allowedOrigins[0] : allowedOrigins, methods: ['GET', 'POST'] },
   path: '/socket.io',
 });
 
